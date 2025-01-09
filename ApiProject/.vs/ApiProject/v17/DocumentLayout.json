@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\ApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F002A9AE-0369-4E9E-995C-1BEFD0A4CEC7}|ApiProject\\ApiProject.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F002A9AE-0369-4E9E-995C-1BEFD0A4CEC7}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\services\\implements\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\services\\implements\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\services\\implements\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\services\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\dtos\\employeedtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\dtos\\employeedtos\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15A638D-3BDF-4224-8A92-DDB439CCFFCF}|ApiProject.BL\\ApiProject.BL.csproj|solutionrelative:apiproject.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\repositories\\iassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\configurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\configurations\\assignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F002A9AE-0369-4E9E-995C-1BEFD0A4CEC7}|ApiProject\\ApiProject.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F002A9AE-0369-4E9E-995C-1BEFD0A4CEC7}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.dal\\context\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0B3F44-D9FE-423C-A306-FCBF309C2C30}|ApiProject.DAL\\ApiProject.DAL.csproj|solutionrelative:apiproject.dal\\context\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\entities\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\entities\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|c:\\users\\classtime\\desktop\\apiproject\\apiproject.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE09FAB-9409-4BAD-A74B-10F0BBD37DB9}|ApiProject.Core\\ApiProject.Core.csproj|solutionrelative:apiproject.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "ApiProject.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:54:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "ApiProject.BL\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:53:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Implements\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Services\\Implements\\AssignmentService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Implements\\AssignmentService.cs",
+              "RelativeToolTip": "ApiProject.BL\\Services\\Implements\\AssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:31:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Services\\Interfaces\\IAssignmentService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "ApiProject.BL\\Services\\Interfaces\\IAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:23:44.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "ApiProject.BL\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:20:58.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Implements\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Services\\Implements\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Services\\Implements\\EmployeeService.cs",
+              "RelativeToolTip": "ApiProject.BL\\Services\\Implements\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:20:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\DTOs\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\DTOs\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\DTOs\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "ApiProject.BL\\DTOs\\EmployeeDtos\\EmployeeCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:16:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeToolTip": "ApiProject.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:56:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\InvalidException.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Exceptions\\Common\\InvalidException.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\InvalidException.cs",
+              "RelativeToolTip": "ApiProject.BL\\Exceptions\\Common\\InvalidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:56:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\ExistException.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Exceptions\\Common\\ExistException.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\Common\\ExistException.cs",
+              "RelativeToolTip": "ApiProject.BL\\Exceptions\\Common\\ExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:55:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "ApiProject.BL\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.BL\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "ApiProject.BL\\Exceptions\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:55:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "ApiProject.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:22:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ApiProject.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:16:41.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "ApiProject.DAL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:15:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "ApiProject.DAL\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:13:36.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ApiProject.Core\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:47:12.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Repositories\\IAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IAssignmentRepository.cs",
+              "RelativeToolTip": "ApiProject.Core\\Repositories\\IAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:49:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject\\appsettings.json",
+              "RelativeToolTip": "ApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T08:48:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject\\Program.cs",
+              "RelativeToolTip": "ApiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:47:30.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "ApiProject.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:45:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "RelativeToolTip": "ApiProject.DAL\\Configurations\\AssignmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:47:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Context\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "ApiProject.DAL\\Context\\TaskDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.DAL\\Context\\TaskDbContext.cs",
+              "RelativeToolTip": "ApiProject.DAL\\Context\\TaskDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:21:15.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Tag.cs",
+              "RelativeToolTip": "ApiProject.Core\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:44:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Topic.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Entities\\Topic.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Topic.cs",
+              "RelativeToolTip": "ApiProject.Core\\Entities\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:43:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Assignment.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Entities\\Assignment.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Assignment.cs",
+              "RelativeToolTip": "ApiProject.Core\\Entities\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:31:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "ApiProject.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:37:55.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ApiProject.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\ApiProject\\ApiProject.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "ApiProject.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T05:37:30.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

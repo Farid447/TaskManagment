@@ -1,0 +1,17 @@
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.BL.deps.json
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.BL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.BL.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.Core.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.DAL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.DAL.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\bin\Debug\net8.0\ApiProject.Core.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProje.AC61C119.Up2Date
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\refint\ApiProject.BL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ApiProject.BL.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.BL\obj\Debug\net8.0\ref\ApiProject.BL.dll

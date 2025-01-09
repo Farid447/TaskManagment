@@ -1,0 +1,17 @@
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.DAL.deps.json
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.DAL.runtimeconfig.json
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.DAL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.DAL.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.Core.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\bin\Debug\net8.0\ApiProject.Core.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProje.3901A902.Up2Date
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\refint\ApiProject.DAL.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ApiProject.DAL.genruntimeconfig.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.DAL\obj\Debug\net8.0\ref\ApiProject.DAL.dll

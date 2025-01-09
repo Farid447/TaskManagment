@@ -1,0 +1,11 @@
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\bin\Debug\net8.0\ApiProject.Core.deps.json
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\bin\Debug\net8.0\ApiProject.Core.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\bin\Debug\net8.0\ApiProject.Core.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\refint\ApiProject.Core.dll
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ApiProject.Core.pdb
+C:\Users\Classtime\Desktop\ApiProject\ApiProject.Core\obj\Debug\net8.0\ref\ApiProject.Core.dll
